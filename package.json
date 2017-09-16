@@ -1,0 +1,29 @@
+{
+  "name": "turbocopier",
+  "version": "0.1.0",
+  "description": "",
+  "main": "gulpfile.babel.js",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "del": "3.0",
+    "globby": "^6.1.0",
+    "gulp": "gulpjs/gulp.git#4.0",
+    "merge-stream": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-register": "^6.26.0",
+    "gulp-debug": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andriy Melnyk",
+  "license": "MIT",
+  "babel": {
+    "presets": [
+      "env"
+    ]
+  }
+}

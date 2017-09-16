@@ -1,0 +1,6 @@
+{
+	"src": [
+        "c:/Users/mao.AzureAD/AppData/Roaming/Keypirinha/User/**/*",
+        "!c:/Users/mao.AzureAD/AppData/Roaming/Keypirinha/User/*.history"
+    ]
+}
